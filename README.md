@@ -25,4 +25,4 @@ open browser and type 'localhost' to see whether XAMPP installed properly or not
 Create Database with name "library".
 copy source code to location: "C:\xampp\htdocs" as it is.
 import sql file from sql folder in database.
-Type 'localhost/(folder name in htdocs)/index.php' in browser to run program.
+Type 'localhost/(folder name in htdocs)/index.html' in browser to run program.
